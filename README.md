@@ -1,7 +1,7 @@
 # navigation
 
 ![WhatsApp Image 2021-03-26 at 13 30 26](https://user-images.githubusercontent.com/62085991/112591775-7ad42100-8e37-11eb-945e-0b3bc3f6a0dd.jpeg)
-![WhatsApp Image 2021-03-26 at 13 30 26](https://user-images.githubusercontent.com/62085991/112591783-7c9de480-8e37-11eb-838f-e784f2e94cbe.jpeg)
+![WhatsApp Image 2021-03-26 at 13 30 26 (1)](https://user-images.githubusercontent.com/62085991/112591874-97705900-8e37-11eb-885a-b5597c2e8e32.jpeg)
 
 ## Getting Started
 
